@@ -1,0 +1,28 @@
+{
+    "asset": "5e1c575195588f445a0495d7cd34aebd",
+    "fileName": "019ea77c-e493-701d-9ee1-9963477cd413.png",
+    "prompt": "A divine branch from the world tree with glowing leaves, hand-painted digital art icon, white background, isolated.",
+    "negativePrompt": "",
+    "model": "colorful-digital-icons",
+    "modelName": "Colorful Digital Icons",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

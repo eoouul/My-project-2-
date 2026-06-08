@@ -1,0 +1,28 @@
+{
+    "asset": "9b0b2bde97ce8b64780af262781c3fbf",
+    "fileName": "019ea787-c708-7faa-aba6-23fe9beaab28.png",
+    "prompt": "The legendary sword Excalibur, glowing with holy light, ornate gold hilt, hand-painted digital art icon, white background, isolated.",
+    "negativePrompt": "",
+    "model": "colorful-digital-icons",
+    "modelName": "Colorful Digital Icons",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

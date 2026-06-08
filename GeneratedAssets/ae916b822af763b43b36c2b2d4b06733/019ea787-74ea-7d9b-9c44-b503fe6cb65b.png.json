@@ -1,0 +1,28 @@
+{
+    "asset": "ae916b822af763b43b36c2b2d4b06733",
+    "fileName": "019ea787-74ea-7d9b-9c44-b503fe6cb65b.png",
+    "prompt": "The golden staff of Apollo, radiating solar brilliance, hand-painted digital art icon, white background, isolated.",
+    "negativePrompt": "",
+    "model": "colorful-digital-icons",
+    "modelName": "Colorful Digital Icons",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

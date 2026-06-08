@@ -1,0 +1,28 @@
+{
+    "asset": "6e028ead6be81094786d2caa4fc5dd62",
+    "fileName": "019ea790-ca23-7d8f-84ba-ab9a986d293e.png",
+    "prompt": "A mystical wand that creates illusions, shimmering with rainbow colors, hand-painted digital art icon, white background, isolated.",
+    "negativePrompt": "",
+    "model": "colorful-digital-icons",
+    "modelName": "Colorful Digital Icons",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

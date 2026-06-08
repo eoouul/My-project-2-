@@ -1,0 +1,28 @@
+{
+    "asset": "90f94025167fd744c89e10f7e7430a79",
+    "fileName": "019ea77d-368f-7709-bbf4-b5f47129de1a.png",
+    "prompt": "A lethal iron mace with sharp spikes, hand-painted digital art icon, white background, isolated.",
+    "negativePrompt": "",
+    "model": "colorful-digital-icons",
+    "modelName": "Colorful Digital Icons",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

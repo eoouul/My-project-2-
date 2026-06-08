@@ -1,0 +1,28 @@
+{
+    "asset": "56b2c82b889512d4ab2e5c8c7b8f368a",
+    "fileName": "019ea740-f973-75f0-b7e6-f49fb580caf9.png",
+    "prompt": "Retro 16-bit pixel art of a powerful crystal staff with a large glowing blue crystal, game icon, centered, isolated on white background.",
+    "negativePrompt": "",
+    "model": "colorful-digital-icons",
+    "modelName": "Colorful Digital Icons",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

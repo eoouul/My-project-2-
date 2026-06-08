@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 030d00ca355ca30449f46d44496438e9, type: 3}
+  m_Name: Stick_02_Staff
+  m_EditorClassIdentifier: Assembly-CSharp::EvolutionNode
+  tier: 2
+  stageName: "\uC774\uB07C \uB080 \uC9C0\uD321\uC774"
+  description: "\uB9C8\uB825\uC774 \uAE43\uB4E0 \uC9C0\uD321\uC774."
+  requiredResources: 50
+  resourcePerClick: 3
+  stageSprite: {fileID: 21300000, guid: 1996ae436a465d0409703eb6f8e5e375, type: 3}
+  nextPossibleEvolutions:
+  - {fileID: 11400000, guid: 43b72460a68f299faedeac6d36627315, type: 2}
+  - {fileID: 11400000, guid: 3c40d23a179d6a66827b5212382fbc43, type: 2}

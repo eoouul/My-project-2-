@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 030d00ca355ca30449f46d44496438e9, type: 3}
+  m_Name: Stick_04_WoodenSword
+  m_EditorClassIdentifier: Assembly-CSharp::EvolutionNode
+  tier: 2
+  stageName: "\uD6C8\uB828\uC6A9 \uBAA9\uAC80"
+  description: "\uAC80\uC220\uC758 \uAE30\uCD08\uB97C \uB2E6\uC2B5\uB2C8\uB2E4."
+  requiredResources: 300
+  resourcePerClick: 10
+  stageSprite: {fileID: 21300000, guid: 558a01d2b3fd7b040b8d11c5c77b7629, type: 3}
+  nextPossibleEvolutions:
+  - {fileID: 11400000, guid: 4b55a6e3de29437ef3a96b8830d113c0, type: 2}
+  - {fileID: 11400000, guid: 8399aa8abdd9c03459caca857208fef4, type: 2}

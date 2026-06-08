@@ -1,0 +1,28 @@
+{
+    "asset": "fd2a9580b9a53dd42b79a3014b17c550",
+    "fileName": "019ea846-facb-7724-83c9-577c880e374f.jpg",
+    "prompt": "A beautiful mystical blacksmith forge interior background for a weapon evolution game. Glowing furnace, tools on the wall, wooden desk, fantasy atmosphere, detailed 2D digital painting, 1920x1080.",
+    "negativePrompt": "",
+    "model": "flux-2-pro",
+    "modelName": "Flux 2 (Pro)",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}
